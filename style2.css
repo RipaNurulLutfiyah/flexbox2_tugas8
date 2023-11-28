@@ -1,0 +1,33 @@
+
+.css1{
+    background-color: rgb(69, 66, 66);
+    width: 1160px;
+    height: 100px;
+    margin: 20px;
+}
+.css2{
+    margin: 20px;
+    background-color: rgb(45, 44, 44);
+    width: 400px;
+    height: 500px;
+}
+.css3{
+    margin: 20px;
+    background-color: rgb(39, 38, 38);
+    width: 860px;
+    height: 500px;
+}
+.css4{
+    margin: 20px;
+    background-color: rgb(69, 66, 66);
+    width: 1160px;
+    height: 100px;
+}
+img{
+    width: 150px;
+    height: 150px;
+    margin: 20px;
+    padding-top: 100px;
+    padding-left: 50px;
+    
+}
